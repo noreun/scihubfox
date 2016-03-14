@@ -17,3 +17,7 @@ chrome/skin/overlay.css
 
 and change blue to black.
 
+To build, use build_simple.sh
+
+Go Open Science.
+
