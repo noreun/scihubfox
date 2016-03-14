@@ -1,0 +1,5 @@
+content scihubfox jar:chrome/scihubfox.jar!/content/
+overlay chrome://browser/content/browser.xul chrome://scihubfox/content/overlay.xul
+skin scihubfox classic/0.1 jar:chrome/scihubfox.jar!/skin/
+style   chrome://global/content/customizeToolbar.xul    chrome://scihubfox/skin/overlay.css
+locale	scihubfox	en-US	jar:chrome/scihubfox.jar!/locale/en-US/
